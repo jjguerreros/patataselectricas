@@ -1,4 +1,11 @@
-@import url('http://fonts.cdnfonts.com/css/happy-birthday');
+/**@import url('http://fonts.cdnfonts.com/css/happy-birthday');**/
+@font-face {
+    font-family: 'Happy Birthday';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Happy Birthday'), url('https://fonts.cdnfonts.com/s/22184/HappyBirthday-Regular.woff') format('woff');
+}
+
 
 body {
   /** https://asssols.xyz/wp-content/uploads/2021/10/bg-Beach.png**/
